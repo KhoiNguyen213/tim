@@ -8,7 +8,7 @@ one.onmouseleave = function () {
   one.innerHTML = "No";
 };
 one.onclick = function () {
-  alert("Thanks");
+  alert("Thanks =))");
 };
 two.onclick = function () {
   alert("real??");
