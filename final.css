@@ -1,0 +1,15 @@
+img {
+    height: auto;
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
