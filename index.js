@@ -1,10 +1,9 @@
-let btn1 = document.getElementById("btn1");
-let btn2 = document.getElementById("btn2");
+let btn = document.getElementById("button");
 
-btn1.onclick = function () {
-  alert("Error, the button can't run");
-};
-
-btn2.addEventListener("click", function () {
-  window.location = "/final.html";
+btn.addEventListener("click", function () {
+  window.location = "/index.html";
 });
+
+btn.onclick = function () {
+  alert("last warning, you can't comeback if you click button");
+};
