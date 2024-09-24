@@ -1,7 +1,7 @@
 let btn = document.getElementById("button");
 
 btn.addEventListener("click", function () {
-  window.location = "/index.html";
+  window.location = "/how.html";
 });
 
 btn.onclick = function () {
